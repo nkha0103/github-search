@@ -20,3 +20,8 @@ Behind the scenes:
 ## Demo
 
 http://kha-github-search.surge.sh/
+
+## Notice
+
+This application is limit by Github API rate limit, please try again
+after it reset
